@@ -1,0 +1,23 @@
+{
+  "name": "tjc2",
+  "version": "1.0.0",
+  "description": "TJC PROJECTS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pooh200598/TJC2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pooh200598/TJC2/issues"
+  },
+  "homepage": "https://github.com/pooh200598/TJC2#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-validator": "^6.14.2"
+  }
+}
