@@ -1,2 +1,0 @@
-# TJC2
-TJC PROJECTS
